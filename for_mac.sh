@@ -1,0 +1,1 @@
+open https://www.youtube.com/shorts/SXHMnicI6Pg
