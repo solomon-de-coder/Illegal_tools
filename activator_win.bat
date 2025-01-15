@@ -1,5 +1,3 @@
-#RUN THIS IN CMD WITH ADMINISTRATIVE PERMISSIONS TO ACTIVATE ANY MS UTILITES
-
 
 if ($ExecutionContext.SessionState.LanguageMode.value__ -ne 0) {
     $ExecutionContext.SessionState.LanguageMode
